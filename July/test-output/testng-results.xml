@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30411" started-at="2020-07-03T10:01:20 EDT" finished-at="2020-07-03T10:01:50 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30411" started-at="2020-07-03T10:01:20 EDT" finished-at="2020-07-03T10:01:50 EDT">
+      <class name="Check.Base">
+        <test-method status="PASS" signature="PageObj()[pri:0, instance:Check.Base@5d76b067]" name="PageObj" duration-ms="30343" started-at="2020-07-03T10:01:20 EDT" finished-at="2020-07-03T10:01:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageObj -->
+      </class> <!-- Check.Base -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
