@@ -18,5 +18,7 @@ public class Base {
 		driver.manage().window().maximize();
 		driver.findElement(By.id("twotabsearchtextbox")).sendKeys("Blue box");
 		driver.findElement(By.className("nav-input")).click();
+		driver.findElement(By.className("nav-a  ")).click();
+		driver.quit();
 }
 }
